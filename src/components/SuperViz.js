@@ -30,7 +30,7 @@ const SuperViz = (function () {
          enableFollow: true,
          enableGoTo: true,
          enableGather: true,
-         camsOff: false,
+         camsOff: true,
          layoutPosition: 'center',
          camerasPosition: 'right',
          offset: {

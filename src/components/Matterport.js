@@ -53,7 +53,7 @@ class Matterport {
       url.searchParams.set('gt', 0);
       url.searchParams.set('hr', 0);
       url.searchParams.set('mls', 0);
-      url.searchParams.set('vr', 0);
+      url.searchParams.set('vr', 1);
       url.searchParams.set('help', 0);
       url.searchParams.set('hl', 2);
       url.searchParams.set('log', 0);
